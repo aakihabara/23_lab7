@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Authorisation</string>
+    <string name="login_title">Sign in</string>
+    <string name="login_username">Username</string>
+    <string name="login_password">Password</string>
+    <string name="login_button">LOGIN</string>
+    <string name="login_forgot">Forgot password?</string>
+    <string name="login_another_ways">or sign in with</string>
+</resources>
